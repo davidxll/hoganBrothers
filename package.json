@@ -1,0 +1,23 @@
+{
+  "name": "hoganbrothers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "sass ./index.scss ./gh-pages/stylesheets/index.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidxll/hoganBrothers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidxll/hoganBrothers/issues"
+  },
+  "homepage": "https://github.com/davidxll/hoganBrothers#readme",
+  "dependencies": {
+    "sass": "^1.26.9"
+  }
+}
